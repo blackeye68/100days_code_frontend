@@ -2,5 +2,5 @@
 Record the process of learning and practicing frontend code including: html, css... in 100 days.
 - **Start time:** 03/10/2022
 - **Detail time:**
-  - d
-- **End time:** kdkd
+  - 03/10/2022:
+- **End time:** 01/02/2023
